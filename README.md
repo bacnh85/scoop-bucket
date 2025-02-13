@@ -3,7 +3,7 @@
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add bacnh85_scoop-bucket https://github.com/bacnh85/bacnh85/scoop-bucket
+scoop bucket add bacnh85_scoop-bucket https://github.com/bacnh85/scoop-bucket
 scoop install bacnh85_scoop-bucket/<manifestname>
 ```
 
